@@ -98,9 +98,9 @@ def lambda_handler(event, context):
 
 ## Demo
 
-For a full walkthrough with explanation, see the LinkedIn post, 11-minute explained video:
+For a full walkthrough with explanation, see the LinkedIn post:
 
-https://www.linkedin.com/posts/george-morcos-bb340b26b_aws-serverless-lambda-ugcPost-7458140318257840128-VvnO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIXMPcB3vQZlWay7Zn3vqPHi9H-lx_gk-U
+[11-minute explained video](https://www.linkedin.com/posts/george-morcos-bb340b26b_aws-serverless-lambda-ugcPost-7458140318257840128-VvnO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIXMPcB3vQZlWay7Zn3vqPHi9H-lx_gk-U)
 
 ---
 
